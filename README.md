@@ -23,6 +23,10 @@ I got a lot of help from the AM2R Discord server (Thanks to them !)
 I'll include also the values to enter in the Palette swapper in case you ever decide to replace the sprites (I'll put a .txt file which contain color values, and the origins changes etc... in UMT.
 
 
+- What changes with that mod ? -
+  -> Full Samus's sprite replacement
+  -> Changed Missiles/Super Missiles / Screw Attack sounds for their fusion counter part (Sa-x screw sound, not Samus's)
+
 You can download the mod here : https://drive.google.com/file/d/1xndem5IFOhX8upFByiWUWlbwhNqAaF-H/view?usp=sharing
 You can download the utilities here (sprites, sounds etc....) : https://drive.google.com/file/d/1xndem5IFOhX8upFByiWUWlbwhNqAaF-H/view?usp=sharing
 Have fun !
