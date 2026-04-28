@@ -27,6 +27,6 @@ I'll include also the values to enter in the Palette swapper in case you ever de
   -> Full Samus's sprite replacement
   -> Changed Missiles/Super Missiles / Screw Attack sounds for their fusion counter part (Sa-x screw sound, not Samus's)
 
-You can download the mod here : https://drive.google.com/file/d/1xndem5IFOhX8upFByiWUWlbwhNqAaF-H/view?usp=sharing
+You can download the mod here : https://drive.google.com/file/d/1VS9w-NEF42Ls2J-IOYdESd09d1Rah0DS/view?usp=sharing
 You can download the utilities here (sprites, sounds etc....) : https://drive.google.com/file/d/1xndem5IFOhX8upFByiWUWlbwhNqAaF-H/view?usp=sharing
 Have fun !
