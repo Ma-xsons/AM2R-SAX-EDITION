@@ -7,7 +7,7 @@ Modding it was really fun, even though a bit complicated (I undertsand why nobod
 
 I used a lot of tools for this : 
 
-- Undertale Modding Tool (UMT) for importing/exporting graphics/sounds etc....
+- Undertale Modding Tool (UTMT) for importing/exporting graphics/sounds etc....
 - Pixel art : Paint.net with some addons to replace a single color or a complete palette :
     Addons used in Paint.net : 
     Replace color : https://forums.getpaint.net/topic/32423-color-replacer/
@@ -21,8 +21,21 @@ I got a lot of help from the AM2R Discord server (Thanks to them !)
 
 I'll include also the values to enter in the Palette swapper in case you ever decide to replace the sprites (I'll put a .txt file which contain color values, and the origins changes etc... in UMT.
 
-- You can check the "Update" section to stay informed about the updates that occured for the mod.
-
-You can download the mod here : https://drive.google.com/file/d/1VS9w-NEF42Ls2J-IOYdESd09d1Rah0DS/view?usp=sharing
-You can download the utilities here (sprites, sounds etc....) : [https://drive.google.com/file/d/1xndem5IFOhX8upFByiWUWlbwhNqAaF-H/view?usp=sharing](https://drive.google.com/file/d/1-uqEdHErrMw0VbjpIFRng3Iz4UyRyoZs/view?usp=sharing)
 Have fun !
+
+V.1.0 :
+
+      Changed Samus's sprite for the SA-X's one.
+      Changed some SFX to stick more to Fusion's.
+      Lowered every beams/Missiles etc... to fit Samus's new armcanon's position.
+
+V.1.0.1 :
+
+      Changed power beam / wave beam to be more closer to Metroid Fusion
+      Changed Missiles / Super Missiles to look more like Metroif Fusion / Zero Mission
+      Changed a bugged frame for the running animation
+      Added New Used sprites in a new folder in the "SA-X Dev utilities" folder
+
+Download Mod V1.0.1 : https://drive.google.com/file/d/1-WHawORbRsZ-4mR8gEmHmDkjY2RMz7Vg/view?usp=sharing
+
+Download Utilities (Sprites, sounds etc...) : https://drive.google.com/file/d/1qfdZHLuPUNl0MBTPv_9gtCCqBy6ycsID/view?usp=drive_link
