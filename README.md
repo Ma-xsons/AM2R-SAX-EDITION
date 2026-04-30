@@ -32,9 +32,14 @@ V.1.0 :
 V.1.0.1 :
 
       Changed power beam / wave beam to be more closer to Metroid Fusion
-      Changed Missiles / Super Missiles to look more like Metroif Fusion / Zero Mission
-      Changed a bugged frame for the running animation
+      Changed Missiles / Super Missiles to look more like Metroid Fusion / Zero Mission
+      Changed a bugged frame for the running animation, should now look better
       Added New Used sprites in a new folder in the "SA-X Dev utilities" folder
+
+Future plans : 
+
+      Add Fusion suit Samus for the Fusion mod
+      Bigger hitboxes for zeta metroids (They are harder with the mode since the armcannon is lower)
 
 Download Mod V1.0.1 : https://drive.google.com/file/d/1-WHawORbRsZ-4mR8gEmHmDkjY2RMz7Vg/view?usp=sharing
 
