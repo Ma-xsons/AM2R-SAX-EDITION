@@ -57,8 +57,4 @@ Future plans :
 Download Mod V1.0.1 : https://drive.google.com/file/d/1-WHawORbRsZ-4mR8gEmHmDkjY2RMz7Vg/view?usp=sharing
 
 
-
-Optionnal, but if you want to mod AM2R or use the sprites for whatever reason : 
-
-
-Download Utilities (Sprites, sounds etc...) : https://drive.google.com/file/d/1qfdZHLuPUNl0MBTPv_9gtCCqBy6ycsID/view?usp=drive_link
+(Optionnal) Download Utilities (Sprites, sounds etc...) : https://drive.google.com/file/d/1qfdZHLuPUNl0MBTPv_9gtCCqBy6ycsID/view?usp=drive_link
