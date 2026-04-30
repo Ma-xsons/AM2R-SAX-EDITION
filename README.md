@@ -24,5 +24,5 @@ I'll include also the values to enter in the Palette swapper in case you ever de
 - You can check the "Update" section to stay informed about the updates that occured for the mod.
 
 You can download the mod here : https://drive.google.com/file/d/1VS9w-NEF42Ls2J-IOYdESd09d1Rah0DS/view?usp=sharing
-You can download the utilities here (sprites, sounds etc....) : https://drive.google.com/file/d/1xndem5IFOhX8upFByiWUWlbwhNqAaF-H/view?usp=sharing
+You can download the utilities here (sprites, sounds etc....) : [https://drive.google.com/file/d/1xndem5IFOhX8upFByiWUWlbwhNqAaF-H/view?usp=sharing](https://drive.google.com/file/d/1-uqEdHErrMw0VbjpIFRng3Iz4UyRyoZs/view?usp=sharing)
 Have fun !
