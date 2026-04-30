@@ -14,11 +14,11 @@ A lot of them are directly taken from the SA-X sheets you can find online, while
 
 I got a lot of help from the AM2R discord server, thanks to them !
 
-
-I used a lot of tools for this : 
+TOOLS USED :
 
     - Undertale Modding Tool (UTMT) for importing/exporting graphics/sounds etc....
-    - Pixel art : Paint.net with some addons to replace a single color or a complete palette :
+    - Pixel art : Paint.net with some addons to replace a single color or a complete palette
+    
     
 Addons used in Paint.net : 
 
@@ -32,7 +32,7 @@ Replace palette :
 
         https://forums.getpaint.net/topic/115019-cipheroids-replace-colors-palette/
       
-I'll include also the values to enter in the Palette swapper in case you ever decide to replace the sprites but want to keep the original colors I used (based on Super/Fusion (I'll put a .txt file which contain color values, and the origins changes done in UTMT. Tho I won't provide any code modifications for the beams (but you can stil lask for help, if you will to change them)
+I'll include also the values to enter in the Palette swapper in case you ever decide to replace the sprites but want to keep the original colors I used (based on Super/Fusion (I'll put a .txt file which contain color values, and the origins changes done in UTMT. I won't provide any code modifications for the beams offsets (but you can still ask for help, if you will to change them)
 
 Have fun !
 
