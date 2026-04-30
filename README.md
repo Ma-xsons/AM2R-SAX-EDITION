@@ -1,9 +1,19 @@
 # AM2R-SAX-EDITION
 This is the repo for the mod replacing Samus's sprites with the SA-X's one in AM2R
 
-I spent a lot of time replacing AM2R's Samus's Sprite with the SA-X one.
+I replaced AM2R's Samus's Sprite with the SA-X one.
+
+
 It is fully working, only some minor graphics bug (charge beam not aligned with the grab or the landing animation being 2 pixels higher)
 Modding it was really fun, even though a bit complicated (I undertsand why nobody adventure themselves here)
+
+
+The sprites are mainly based on the sprites sheets found at the spriter-ressource.com
+A lot of them are directly taken from the SA-X sheets you can find online, while others are customs by me, base on either MZM Gravity Suit, or SA-X.
+
+
+I got a lot of help from the AM2R discord server, thanks to them !
+
 
 I used a lot of tools for this : 
 
@@ -14,18 +24,14 @@ Addons used in Paint.net :
 
 
 Replace color :
+
         https://forums.getpaint.net/topic/32423-color-replacer/
 
       
 Replace palette : 
+
         https://forums.getpaint.net/topic/115019-cipheroids-replace-colors-palette/
       
-
-The sprites are mainly based on the sprites sheets found at the spriter-ressource.com
-A lot of them are directly taken from the SA-X sheets you can find online, while others are customs by me, base on either MZM Gravity Suit, or SA-X.
-
-
-
 I'll include also the values to enter in the Palette swapper in case you ever decide to replace the sprites but want to keep the original colors I used (based on Super/Fusion (I'll put a .txt file which contain color values, and the origins changes done in UTMT. Tho I won't provide any code modifications for the beams (but you can stil lask for help, if you will to change them)
 
 Have fun !
@@ -46,7 +52,7 @@ V.1.0.1 :
 Future plans : 
 
       Add Fusion suit Samus for the Fusion mod
-      Bigger hitboxes for zeta metroids (They are harder with the mode since the armcannon is lower)
+      Bigger hitboxes for zeta metroids (They are harder with the mod since the armcannon is lower)
 
 Download Mod V1.0.1 : https://drive.google.com/file/d/1-WHawORbRsZ-4mR8gEmHmDkjY2RMz7Vg/view?usp=sharing
 
